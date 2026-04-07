@@ -1,12 +1,11 @@
 aid: startup-buffer
-url: 
-  https://raw.githubusercontent.com/api-evangelist/startup-buffer/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/startup-buffer/refs/heads/main/apis.yml
 apis: []
 name: Startup Buffer
 tags:
-  - Startups
   - Directory
   - Product Discovery
+  - Startups
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
