@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "sb": "https://startupbuffer.com/vocab#",
+    "Startup": "Organization",
+    "Product": "SoftwareApplication",
+    "Listing": "sb:Listing",
+    "id": "@id",
+    "name": "name",
+    "description": "description",
+    "url": "url",
+    "category": "applicationCategory",
+    "tags": "keywords",
+    "submittedAt": "datePublished",
+    "foundedYear": "foundingDate",
+    "founders": {
+      "@id": "founder",
+      "@container": "@list"
+    },
+    "location": "location",
+    "logo": "logo",
+    "screenshot": "screenshot",
+    "website": "url",
+    "twitter": "sameAs",
+    "instagram": "sameAs",
+    "facebook": "sameAs",
+    "platform": "operatingSystem",
+    "pricing": "offers",
+    "upvotes": "interactionCount",
+    "featured": "sb:featured",
+    "status": "sb:listingStatus"
+  }
+}

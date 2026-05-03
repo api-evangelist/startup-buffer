@@ -1,0 +1,68 @@
+name: Startup Buffer Vocabulary
+description: >-
+  Domain vocabulary for Startup Buffer's startup discovery and directory platform concepts covering product launches, community curation, and startup discovery workflows.
+created: '2026-05-02'
+modified: '2026-05-02'
+terms:
+  - term: Startup Buffer
+    definition: >-
+      A community-driven platform for discovering and showcasing new startups, products, and innovations. Users can submit, browse, and share startup listings across industries.
+    tags:
+      - Platform
+      - Directory
+
+  - term: Startup Listing
+    definition: >-
+      A profile page for a startup on Startup Buffer containing the company name, description, category, logo, website link, and social media links.
+    tags:
+      - Directory
+      - Profile
+
+  - term: Product Discovery
+    definition: >-
+      The process of finding new startups and products through the Startup Buffer directory, organized by category, launch date, and community upvotes.
+    tags:
+      - Discovery
+      - Product
+
+  - term: Submission
+    definition: >-
+      The process by which a startup founder or representative adds their product to the Startup Buffer directory for community review and discovery.
+    tags:
+      - Workflow
+      - Submission
+
+  - term: Upvote
+    definition: >-
+      A community endorsement signal on Startup Buffer where users vote for startups they find interesting or useful, contributing to the startup's visibility ranking.
+    tags:
+      - Community
+      - Engagement
+
+  - term: Featured
+    definition: >-
+      A premium listing status on Startup Buffer where selected startups receive enhanced visibility through homepage placement and promotional exposure to the community.
+    tags:
+      - Promotion
+      - Visibility
+
+  - term: Category
+    definition: >-
+      A taxonomy classification on Startup Buffer used to organize startups by industry or product type (e.g., SaaS, Mobile, AI, FinTech, E-commerce, Healthcare).
+    tags:
+      - Taxonomy
+      - Classification
+
+  - term: Launch
+    definition: >-
+      The event of a startup publicly announcing and listing their product on Startup Buffer for the first time, typically aligned with a product launch campaign.
+    tags:
+      - Launch
+      - Announcement
+
+  - term: Community
+    definition: >-
+      The collective users, founders, and enthusiasts on Startup Buffer who browse, submit, upvote, and discuss startup listings to create a curated discovery platform.
+    tags:
+      - Community
+      - Users
