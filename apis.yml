@@ -15,6 +15,8 @@ description: >-
   Startup Buffer is a community-driven directory and platform for discovering new startups, products, and innovations across various industries. The platform offers startup submission, browsing, and discovery features through web and mobile applications.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/startup-buffer-domain-security.yml
   - url: https://startupbuffer.com/
     name: Startup Buffer Website
     type: Website
